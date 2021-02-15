@@ -2,6 +2,7 @@ package com.example.demo;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 @Entity
@@ -10,7 +11,7 @@ public class Country {
     //properties declare here
     //id is use as the primary key of the table. It is an auto incremented value
     @Id
-    @GeneratedValue
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
     private String countryName;
 
