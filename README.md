@@ -1,8 +1,8 @@
-# Pearson Practical Test. (Backend)
+# Pearson Practical Test. (Back-end)
 ## This project was created as the solution for the Practical Test of Pearson Lanka.
 
 
-This backend part was created by using the Spring Boot framework
+This Back-end part was created by using the Spring Boot framework
 
 
 If you want to run this application please follow few steps as below
@@ -32,5 +32,5 @@ If you want to run this application please follow few steps as below
 * To delete specific country, send a DELETE request with country id to,
 * http://localhost:8080/rest/v2/country/delete/{id}
 
-#### Please find the Frontend part of this application by going through this link,
+#### Please find the Front-end part of this application by going through this link,
 * https://github.com/MininduKothalawala/AngularAppFrontend
