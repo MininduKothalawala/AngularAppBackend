@@ -6,8 +6,8 @@ This backend part was created by using the Spring Boot framework
 
 
 If you want to run this application please follow few steps as below
-1. Clone this repository.
-2. Open project with your favourite IDE.
+1. Open project with your favourite IDE.
+2. Clone this repository.
 3. Install all the maven dependencies.
 4. Start the project and go through it.
 
